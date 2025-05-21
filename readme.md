@@ -24,5 +24,3 @@ Este projeto é um jogo de Jo-Ken-Po (pedra, papel e tesoura) com cartas clássi
 ## Prints
 Adicione aqui prints do jogo usando a extensão CodeSnap ou a ferramenta de captura do seu sistema.
 ---
-
-Sinta-se à vontade para sugerir melhorias ou reportar bugs!
