@@ -14,9 +14,9 @@ Este projeto é um jogo de Jo-Ken-Po (pedra, papel e tesoura) com cartas clássi
 - Responsivo e fácil de jogar
 
 ## Tecnologias utilizadas
-- HTML5
-- CSS3
-- JavaScript puro
+- **HTML5**
+- **CSS3**
+- **JavaScript**
 
 ## Como rodar o projeto
 1. Acesse diretamente pelo link fornecido e Divirta-se jogando!
