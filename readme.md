@@ -19,4 +19,5 @@ Este projeto é um jogo de Jo-Ken-Po (pedra, papel e tesoura) com cartas clássi
 - **JavaScript**
 
 ## Como rodar o projeto
-Acesse diretamente pelo link fornecido e Divirta-se jogando!
+Acesse diretamente pelo link abaixo:
+[https://gabrieladevx.github.io/YuGiOh-JoKenPo-Edition/]
